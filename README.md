@@ -34,7 +34,7 @@ Prerequisi:
 
 1. Tramite la shell di MySQL oppure MySQL Workbench eseguire, in ordine, gli script `createDB.sql` e `populateDB.sql`
 2. Importare `CatenaDiNegozi.zip` in un IDE che supporti Java
-3. Eseguire il Run sulla classe `DBApplication.java`
+3. Eseguire il Run sulla classe `src/catenadinegozi/DBApplication.java` 
 4. Seguire le istruzioni a schermo
 
 
