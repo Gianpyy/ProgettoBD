@@ -28,7 +28,7 @@ Ogni carta fedeltà è legata univocamente ad un cliente, di cui ci interessa co
 
 ## Come installare e usare la demo per l'applicazione
 
-Prerequisi: 
+Prerequisiti: 
 - MySQL
 - Java
 
